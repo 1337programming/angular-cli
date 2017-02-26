@@ -1,11 +1,11 @@
 {
-  "name": "@angular/cli",
+  "name": "@angular/cli-1337",
   "version": "1.0.0-rc.0",
   "description": "CLI tool for Angular",
   "main": "packages/@angular/cli/lib/cli/index.js",
   "trackingCode": "UA-8594346-19",
   "bin": {
-    "ng": "./bin/ng"
+    "ng-1337": "./bin/ng"
   },
   "keywords": [],
   "scripts": {

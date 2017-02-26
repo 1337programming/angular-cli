@@ -1,4 +1,4 @@
-## Angular CLI
+## Angular CLI (1337 Fork)
 
 [![Join the chat at https://gitter.im/angular/angular-cli](https://badges.gitter.im/angular/angular-cli.svg)](https://gitter.im/angular/angular-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -8,6 +8,11 @@
 [![npm][npm-badge]][npm-badge-url]
 
 CLI for Angular applications based on the [ember-cli](http://www.ember-cli.com/) project.
+
+## Fork Changes
+This Fork is the exact same as ng-cli except the following:
+* DLL
+* Webpack Bundle Analysis
 
 ## Note
 
